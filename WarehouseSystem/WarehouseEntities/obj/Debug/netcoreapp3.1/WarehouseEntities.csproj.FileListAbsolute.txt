@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\bin\Debug\netcoreapp3.1\WarehouseEntities.deps.json
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\bin\Debug\netcoreapp3.1\WarehouseEntities.dll
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\bin\Debug\netcoreapp3.1\WarehouseEntities.pdb
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.dll
+C:\Users\ASUS\source\repos\WarehouseSystem\WarehouseEntities\obj\Debug\netcoreapp3.1\WarehouseEntities.pdb

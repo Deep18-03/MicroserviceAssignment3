@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.deps.json
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.dll
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.pdb
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.dll
+C:\Users\ASUS\source\repos\WarehouseSystem\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.pdb

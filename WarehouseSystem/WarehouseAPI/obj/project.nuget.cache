@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "crCcrtYgnM1EwZ6hFWUwhLiYuJAl3v8xDGq7WrjeKpCIk75ZoQbHwqI5kjdQYrks0Dd/ePF8avACu9WLWqkWBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Storage Files\\Deep\\Gateway Groups\\Company Assignment\\Microservices\\Assignment3\\WarehouseSystem\\WarehouseAPI\\WarehouseAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.4\\swashbuckle.aspnetcore.6.0.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.4\\swashbuckle.aspnetcore.swagger.6.0.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.4\\swashbuckle.aspnetcore.swaggergen.6.0.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.4\\swashbuckle.aspnetcore.swaggerui.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
